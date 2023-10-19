@@ -35,6 +35,8 @@ When you run the example code provided, you will get an output like this:
 ```
 Stable Electron configuration for atomic number 29 (Copper): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d¹⁰
 ```
+**Repository Views** ![Views](https://profile-counter.glitch.me/Chemipy/count.svg)
+
 
 ## Contributions 🤝
 
